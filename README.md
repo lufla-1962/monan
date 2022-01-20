@@ -1,4 +1,4 @@
-![](https://i.ibb.co/k5GRj8N/simbolo-menor.png "MarineGEO logo") # MONAN
+![](https://i.ibb.co/k5GRj8N/simbolo-menor.png "MarineGEO logo") MONAN
 ---
  *Model for Ocean laNd and Atmosphere predictioN*
 ---
